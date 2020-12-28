@@ -1,0 +1,1 @@
+cmd_/home/kirill/repos/busybox/_install/AK2_Lab5/hello.ko := ccache arm-eabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/kirill/repos/busybox/_install/AK2_Lab5/hello.ko /home/kirill/repos/busybox/_install/AK2_Lab5/hello.o /home/kirill/repos/busybox/_install/AK2_Lab5/hello.mod.o ;  true
