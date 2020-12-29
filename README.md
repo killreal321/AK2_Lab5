@@ -1,6 +1,6 @@
 # AK2_Lab5 Sushilnikov Kirill IO-83
 
-#Modinfo:
+Modinfo:
 # ![Снимок экрана от 2020-12-28 17-10-32](https://user-images.githubusercontent.com/56515263/103226456-d7a56580-4934-11eb-86b1-f68cd5f9e7cb.png)
 
 insmod:
